@@ -12,7 +12,7 @@ body {
 
 /* apply styles to <header> */
 header {
-    padding: 20px 35 px;
+    padding: 20px 35px;
     background-color: #39a6b2;
 }
 
@@ -20,7 +20,7 @@ header h1 {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
-    margin: 0
+    margin: 0;
     display: inline;
 }
 
