@@ -11,6 +11,4 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Kristy Nerhaugen, with Boot Camp instruction and code provided 
-
-### ©️2019 Run Buddy, Inc 
+Made with ❤️ by Kristy Nerhaugen, with Boot Camp instruction and code provided
