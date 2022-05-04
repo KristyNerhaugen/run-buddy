@@ -1,4 +1,4 @@
-# Run Buddy Inc. Inc. Inc. Something different
+# Run Buddy Inc. Inc. Inc. Trying again 
 
 ## Purpose
 A website that offers fitness training services.
